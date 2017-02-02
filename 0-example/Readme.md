@@ -15,4 +15,5 @@ Avoid using loops - the point is to learn the functional programming principles 
 ##### Files Updated:
 
 * [Lists.scala](src/main/scala/example/Lists.scala)
+* [ListsSuite.scala](src/test/scala/example/ListsSuite.scala)
 
